@@ -1,16 +1,16 @@
 {
-"name": "ufafun",
-"theme": "ufa fun",
-"version": "5.4.3",
-"description": "ufa fun ทางเข้าหลักเว็บสล็อตเว็บตรง ระบบออโต้ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"ufa fun",
-"ufa fun เครดิตฟรี",
-"ufa fun ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/ufafun",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "ufafun",
+  "theme": "ufa fun",
+  "version": "5.5.0",
+  "description": "ufa fun ทางเข้าหลักเว็บสล็อตเว็บตรง ระบบออโต้ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "ufa fun",
+    "ufa fun เครดิตฟรี",
+    "ufa fun ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/ufafun",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
